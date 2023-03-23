@@ -123,7 +123,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
               className="ml-2 font-medium text-day dark:text-night header-name"
               onClick={handleClickHeader}
             >
-              {BLOG.title},{' '}
+              {BLOG.title} |{' '}
               <span className="font-normal">{BLOG.description}</span>
             </p>
           )}

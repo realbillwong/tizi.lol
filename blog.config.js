@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'TIZI.LOL',
-  author: 'tizi',
+  title: '梯子.LOL',
+  author: 'tizi.lol',
   email: 'i@tizi.lol',
   link: 'https://tizi.lol',
-  description: '最新最有效最简单的梯子，翻墙，代理，科学上网教程。',
+  description: '最新最有效的梯子，翻墙，代理，科学上网教程',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
